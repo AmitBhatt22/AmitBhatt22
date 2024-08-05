@@ -3,6 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitbhatt22&label=Profile%20views&color=0e75b6&style=flat" alt="amitbhatt22" /> </p>
 
+- 🔭 I’m currently working on **Portfolio Website**
+
+- 🌱 I’m currently learning **React**
+
+- 👨‍💻 All of my projects are available at [Soon](Soon)
+
 - 📫 How to reach me **officialamitbhatt12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
